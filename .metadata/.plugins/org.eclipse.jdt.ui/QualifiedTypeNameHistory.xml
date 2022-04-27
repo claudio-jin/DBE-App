@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.fiap.imposto.CalculadoraDeImposto"/>
+    <fullyQualifiedTypeName name="br.com.fiap.loja.imposto.TipoDeImposto"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="br.com.fiap.loja.imposto.Icms"/>
+    <fullyQualifiedTypeName name="br.com.fiap.loja.imposto.Imposto"/>
+    <fullyQualifiedTypeName name="br.com.fiap.loja.Pedido"/>
+    <fullyQualifiedTypeName name="br.com.fiap.loja.desconto.DescontoPorQuantidade"/>
+    <fullyQualifiedTypeName name="java.math.RoundingMode"/>
+    <fullyQualifiedTypeName name="br.com.fiap.loja.situacao.EmailListener"/>
+    <fullyQualifiedTypeName name="br.com.fiap.loja.situacao.SituacaoListener"/>
+    <fullyQualifiedTypeName name="org.junit.platform.launcher.listeners.LoggingListener"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
+    <fullyQualifiedTypeName name="javax.inject.Named"/>
+    <fullyQualifiedTypeName name="javax.enterprise.context.RequestScoped"/>
+    <fullyQualifiedTypeName name="br.com.fiap.dao.UserDao"/>
+</qualifiedTypeNameHistroy>
